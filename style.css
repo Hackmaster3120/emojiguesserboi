@@ -1,0 +1,27 @@
+body
+{
+  color: white;
+  background: grey;
+}
+span
+{
+  font-size: 30px;
+}
+#cam , #pic
+{
+  box-shadow: 4px 4px 4px black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+#emoji-name1,#emoji-name2
+{
+  font-size: 40px;
+}
+#emoji1,#emoji2
+{
+  font-size:48px;
+}
